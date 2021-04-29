@@ -6,5 +6,11 @@ const app = new Vue(
         data: {
             message: 'Have a Nice Day!!!!',
             title: 'titolo',
+             //Bonus:
+    //Aggiungere alla pagina un’immagine, presa anch’essa da un data.
+            image: "syracuse.jpg",
         },
     });
+
+   
+

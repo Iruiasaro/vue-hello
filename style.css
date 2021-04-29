@@ -1,5 +1,13 @@
+#vueContainer {
+    margin: auto;
+    text-align: center;
+}
+
 .titolo {
     color: limegreen;
-    text-align: center;
     font-weight: bold;
+}
+
+.siracusa {
+    border: 1px solid black;
 }
